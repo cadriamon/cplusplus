@@ -7,3 +7,4 @@
 // Create .exe in bash: g++ name.cpp -o exename
 // Execute file ./exename
 // To execute machine code file ./a.out
+// Update :D
