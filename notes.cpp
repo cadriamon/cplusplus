@@ -8,3 +8,6 @@
 // Execute file ./exename
 // To execute machine code file ./a.out
 // Update :D
+// git branch
+// git checkout branch
+// git checkout -b main
