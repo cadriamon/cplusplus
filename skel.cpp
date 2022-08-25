@@ -2,6 +2,10 @@
 
 int main()
 {
+    // Variable declaration
+    int year;
+    int score = 0;
+
     // Your program lives here
     std::cout << "Test";
     std::cout << "CCCC  MM        M\n";
